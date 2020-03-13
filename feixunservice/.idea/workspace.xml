@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34a06b3c-af30-47fe-b719-babfc4d229fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="E:\Go" />
+  <component name="ProjectId" id="1Y3godocovQInOoVuyp7fJSQFEN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build service.go">
+    <configuration name="go build feixunservice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="feixunservice" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/service.go" />
+      <package value="feixunservice" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build mainhandle.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="feixunservice" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/process/mainhandle.go" />
+      <package value="feixunservice" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build service.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="feixunservice" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/service.go" />
+      <package value="feixunservice" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go run userDao.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="feixunservice" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/models/userDao.go" />
+      <package value="feixunservice" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build feixunservice" />
+        <item itemvalue="Go Build.go build service.go" />
+        <item itemvalue="Go Build.go build mainhandle.go" />
+        <item itemvalue="Go Build.go run userDao.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="412" y="304" key="#GOROOT" timestamp="1582177056787">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="412" y="304" key="#GOROOT/0.0.2048.1112@0.0.2048.1112" timestamp="1582177056787" />
+    <state x="486" y="212" key="#go_build_mainhandle.go" timestamp="1583985988182">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="486" y="212" key="#go_build_mainhandle.go/0.0.2048.1112@0.0.2048.1112" timestamp="1583985988182" />
+    <state x="441" y="212" key="#go_build_userDao.go" timestamp="1583133825219">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="441" y="212" key="#go_build_userDao.go/0.0.2048.1112@0.0.2048.1112" timestamp="1583133825219" />
+    <state x="441" y="212" key="#go_run_userDao.go" timestamp="1583133830742">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="441" y="212" key="#go_run_userDao.go/0.0.2048.1112@0.0.2048.1112" timestamp="1583133830742" />
+    <state x="824" y="438" key="FileChooserDialogImpl" timestamp="1583977323103">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="824" y="438" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1583977323103" />
+    <state width="1425" height="276" key="GridCell.Tab.0.bottom" timestamp="1583988333120">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1425" height="276" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1583988333120" />
+    <state width="1425" height="276" key="GridCell.Tab.0.center" timestamp="1583988333120">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1425" height="276" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1583988333120" />
+    <state width="1425" height="276" key="GridCell.Tab.0.left" timestamp="1583988333120">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1425" height="276" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1583988333120" />
+    <state width="1425" height="276" key="GridCell.Tab.0.right" timestamp="1583988333120">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1425" height="276" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1583988333120" />
+    <state width="1302" height="317" key="GridCell.Tab.1.bottom" timestamp="1583986752213">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1302" height="317" key="GridCell.Tab.1.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1583986752213" />
+    <state width="1302" height="317" key="GridCell.Tab.1.center" timestamp="1583986752213">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1302" height="317" key="GridCell.Tab.1.center/0.0.2048.1112@0.0.2048.1112" timestamp="1583986752213" />
+    <state width="1302" height="317" key="GridCell.Tab.1.left" timestamp="1583986752213">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1302" height="317" key="GridCell.Tab.1.left/0.0.2048.1112@0.0.2048.1112" timestamp="1583986752213" />
+    <state width="1302" height="317" key="GridCell.Tab.1.right" timestamp="1583986752213">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1302" height="317" key="GridCell.Tab.1.right/0.0.2048.1112@0.0.2048.1112" timestamp="1583986752213" />
+  </component>
+</project>
